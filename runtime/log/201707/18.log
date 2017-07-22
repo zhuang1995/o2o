@@ -1,0 +1,586 @@
+---------------------------------------------------------------
+[ 2017-07-18T20:14:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.034809s][吞吐率：28.73req/s] [内存消耗：2,705.34kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： array[F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2017-07-18T20:15:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.068312s][吞吐率：14.64req/s] [内存消耗：2,684.20kb] [文件加载：57]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T20:23:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.050422s][吞吐率：19.83req/s] [内存消耗：2,705.61kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： array[F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2017-07-18T20:23:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.042229s][吞吐率：23.68req/s] [内存消耗：2,705.61kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： array[F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2017-07-18T20:23:21+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.058974s][吞吐率：16.96req/s] [内存消耗：2,705.61kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： array[F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2017-07-18T20:28:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.325971s][吞吐率：3.07req/s] [内存消耗：2,728.28kb] [文件加载：60]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant error_code - assumed 'error_code'[F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php:59]
+---------------------------------------------------------------
+[ 2017-07-18T21:18:56+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.295905s][吞吐率：3.38req/s] [内存消耗：2,753.05kb] [文件加载：59]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ VIEW ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T21:18:59+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/city/index.html
+[ info ] www.tp5.com/index.php/api/city/index.html [运行时间：0.218534s][吞吐率：4.58req/s] [内存消耗：2,691.36kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'city',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.tp5.com/index.php/api/City/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ VIEW ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T21:19:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.196829s][吞吐率：5.08req/s] [内存消耗：2,691.35kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.tp5.com/index.php/api/city/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ VIEW ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T21:19:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/city/index.html
+[ info ] www.tp5.com/index.php/api/city/index.html [运行时间：0.354720s][吞吐率：2.82req/s] [内存消耗：2,691.36kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'city',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.tp5.com/index.php/api/City/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ VIEW ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T21:19:07+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/City/index
+[ info ] www.tp5.com/index.php/api/City/index [运行时间：0.219656s][吞吐率：4.55req/s] [内存消耗：2,691.35kb] [文件加载：58]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'City',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.tp5.com/index.php/api/city/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\Controller\City->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\City.php ]
+[ info ] [ VIEW ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T22:59:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index
+[ info ] www.tp5.com/index.php/api/meassage/index [运行时间：0.023242s][吞吐率：43.03req/s] [内存消耗：1,696.82kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T22:59:26+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index?uid=101
+[ info ] www.tp5.com/index.php/api/meassage/index?uid=101 [运行时间：0.023650s][吞吐率：42.28req/s] [内存消耗：1,697.20kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:00:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index?uid=101&iphone=13144124152
+[ info ] www.tp5.com/index.php/api/meassage/index?uid=101&iphone=13144124152 [运行时间：0.022796s][吞吐率：43.87req/s] [内存消耗：1,697.36kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+  'iphone' => '13144124152',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:00:59+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index?uid=101&iphone=13144124152
+[ info ] www.tp5.com/index.php/api/meassage/index?uid=101&iphone=13144124152 [运行时间：0.020535s][吞吐率：48.70req/s] [内存消耗：1,697.63kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+  'iphone' => '13144124152',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:01:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index/?uid=101&iphone=13144124152
+[ info ] www.tp5.com/index.php/api/meassage/index/?uid=101&iphone=13144124152 [运行时间：0.019796s][吞吐率：50.52req/s] [内存消耗：1,697.36kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+  'iphone' => '13144124152',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:01:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/api/meassage/index/uid=101&iphone=13144124152
+[ info ] www.tp5.com/index.php/api/meassage/index/uid=101&iphone=13144124152 [运行时间：0.020918s][吞吐率：47.81req/s] [内存消耗：1,696.96kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:01:40+08:00 ] 127.0.0.1 127.0.0.1 GET /api/meassage/index/index.php?uid=101&iphone=13144124152
+[ info ] www.tp5.com/api/meassage/index/index.php?uid=101&iphone=13144124152 [运行时间：0.020092s][吞吐率：49.77req/s] [内存消耗：1,697.35kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+  'iphone' => '13144124152',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-18T23:02:01+08:00 ] 127.0.0.1 127.0.0.1 GET /api/meassage/index/index.php?uid=101&phone=13144124152
+[ info ] www.tp5.com/api/meassage/index/index.php?uid=101&phone=13144124152 [运行时间：0.229389s][吞吐率：4.36req/s] [内存消耗：1,697.49kb] [文件加载：49]
+[ info ] [ LANG ] F:\ZHUANGRILING\phpStudy\WWW\Tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'meassage',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=8999330816',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '101',
+  'phone' => '13144124152',
+)
+[ info ] [ RUN ] app\api\Controller\Meassage->index[ F:\ZHUANGRILING\phpStudy\WWW\Tp5\application\api\controller\Meassage.php ]
+[ info ] [ LOG ] INIT File
